@@ -155,7 +155,7 @@ train_dim.py
 .vscode/
 arch_baocun.py
 arch_layer.py
-*.txt
+G_gpu_usage_log.txt
 CA/
 GLA/
 GBA/
