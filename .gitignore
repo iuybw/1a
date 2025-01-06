@@ -159,7 +159,7 @@ G_gpu_usage_log.txt
 CA/
 GLA/
 GBA/
-SD/
+adj_mx.pkl
 test_dim.py
 test.py
 traing.py
