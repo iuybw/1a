@@ -1,4 +1,4 @@
-# paper titel
+# Paper Title
 
 ## Conda Environment Configuration
 
